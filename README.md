@@ -7,4 +7,5 @@
 ## Hi all! 🤖
 
 - 👨🏻‍💻 Working with .NET Core and Javascript stuff.
-- ☁️  Certified Azure Cloud | C# Developer.
+- ☁️ Certified Azure Cloud
+- 💻 Certified C# Developer
