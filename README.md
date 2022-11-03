@@ -6,6 +6,6 @@
 
 ## Hi all! 🤖
 
-- 👨🏻‍💻 Working with .NET and Javascript stuff.
+- 👨🏻‍💻 Working with .NET and Reactjs.
 - ☁️ Certified Azure Cloud Developer
 - 💻 Certified C# Developer
