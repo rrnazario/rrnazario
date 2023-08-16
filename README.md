@@ -6,6 +6,6 @@
 
 ## Hi all! 🤖
 
-- 👨🏻‍💻 .NET C# | Node | React
+- 👨🏻‍💻 .NET C# | Node | React | Rust 🦀
 - ☁️ Certified Azure Cloud Developer
 - 💻 Certified C# Developer
